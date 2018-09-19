@@ -1,0 +1,203 @@
+Plin
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Pulin Pan</title>
+</head>
+
+<!-- <body style="font-family:Calibri;margin-top:0px;"> -->
+
+<div style="height:100px;background:grey;margin:0px 0px 20px 0px;text-align:center;">
+<span style="color:white;font-size:60pt;line-height:100px;">Pulin Pan</span>
+</div>
+
+<!-- <div style="width:800px;margin:0px auto auto auto;"> -->
+<table cellpadding="0" cellspacing="0" border="0" width="95%" >
+<tr>
+<td width="250px" >
+<img SRC="head.png" ALIGN="BOTTOM" BORDER="0" width="200px" >
+</td>   
+
+<td valign="top">
+<!-- <font size="6" color="red">
+</font> -->
+
+<br />
+<br />
+<b>Pulin Pan</b><br>
+<br />
+Postgraduate student<br>
+<A HREF="http://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering</A><br>
+<A HREF="http://www.hnu.edu.cn/">Hunan University</A><br>
+<br />
+Address: <br>
+Room 437, College of Computer Science and Electronic Engineering,<br>
+Hunan University, Yuelu District, <br>
+Changsha, Hunan, China, <br>
+410082<br>
+<br />
+Work Email: <A HREF="mailto:guochen@hnu.edu.cn">guochen@hnu.edu.cn</A><br>
+Personal Email: <A HREF="mailto:1989chenguo@163.com">1989chenguo@163.com</A><br>
+
+<br />
+<br />
+
+
+</td> 
+</tr>
+</table>
+
+<p> 
+<h2>What's New?</h2>
+<hr />
+<ul>
+<b>
+<li>Our paper "M-Skyline: Taking sunk cost and alternative recommendation in consideration for skyline query on uncertain data" has appeared on Knowledge-Based Systems 2018!</li>
+<li>Our paper "Direct Universal Access: Enabling Data Center Resource Pooling for FPGAs" has been accepted by NSDI 2019!</li>
+<li>My Chinese version self-introduction is recently available on our school's site. Find it <A HREF="http://jobs.hnu.edu.cn/info/1120/1710.htm">here</A>!</li>
+<li>Our paper "Reducing Web Latency through Dynamically Setting TCP Initial Window with Reinforcement Learning" has been accepted by IWQoS 2018!</li>
+<li>Our paper "FUSO: Fast Multi-path Loss Recovery for Data Center Networks" has been accepted by ToN!</li>
+<li>Our paper "Multi-Path Transport for RDMA in Datacenters" has been accepted by NSDI 2018!</li>
+</b>
+</ul>
+</p>
+
+
+
+<p> 
+<h2>Self-introduction </h2>
+<hr />
+I am an Associate Professor at <A HREF="http://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering</A>, <A HREF="http://www.hnu.edu.cn/">Hunan University</A>. 
+<br />
+Before I became a professor, I worked at <A HREF="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia</A> as an Associate Researcher, from 2016-2018. During my years at MSRA (started from 2014 as a research intern), I was lucky to work closely with many great researchers such as <A HREF="https://www.linkedin.com/in/kun-tan-7993b114/">Kun Tan</A> from Wireless & Networking Group,  <A HREF="https://www.microsoft.com/en-us/research/people/moscitho/">Thomas Moscibroda</A> from Cloud & Mobile Group, <A HREF="https://www.microsoft.com/en-us/research/people/lidongz/">Lidong Zhou</A> from System Group, and <A HREF="https://www.microsoft.com/en-us/research/people/yqx/">Yongqiang Xiong</A> from Networking Group.
+<br />
+I got my Ph.D. from the Department of Computer Science at <A HREF="http://www.tsinghua.edu.cn/publish/newthuen/index.html">Tsinghua University</A>, working with <A HREF="http://netman.cs.tsinghua.edu.cn/~peidan/">Dan Pei</A> and <A HREF="http://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224200728346539633/20101224200728346539633_.html">Youjian Zhao</A>. I did my undergrad at <A HREF="http://en.whu.edu.cn">Wuhan University</A>.
+<br />
+<br />
+My Chinese version self-introduction is recently available on our school's site. Find it <A HREF="http://jobs.hnu.edu.cn/info/1120/1710.htm">here</A>. 
+</p>
+
+<p> 
+<h2>Research Interest</h2>
+<hr />
+My research interests lie broadly in computer networking and networked system, with a special focus on <b>cloud networking</b> for now. If you have no idea about the cloud networking, you may refer to my <A HREF="Courses/CloudComputing2018Spring.html">course materials</A> (prepared for senior undergraduate students) which overview the current hottest cloud networking research topics. I also do research on <b>big data & AI system</b> and <b>industrial big data</b>.
+<br />
+<br />
+<font size="4" color="red">
+<b>
+I'm always looking for hard-working and self-motivated PhD/master/intern students who are interested in networking and system research. 
+</b>
+</font>
+</p>
+
+<p> 
+<h2>Non-research Interest</h2>
+<hr />
+I love to play volleyball. I served as the captain of Tsinghua University volleyball team, which won the silver medal twice in Beijing University Volleyball League in 2015 and 2014.
+<br />
+<b>
+I recently start writing some blogs <A HREF="https://1989chenguo.wordpress.com/">here</A></b> (for both technical and non-technical stuff). You are welcome to pay a visit. Currently, most of the blogs are written in Chinese.
+</p>
+
+<p> 
+<h2>Teaching</h2>
+<hr />
+Course pages can be found <A HREF="Courses/teaching.html">here</A>.
+</font>
+</p>
+
+<p> 
+<h2>Students</h2>
+<hr />
+Student/Intern pages can be found <A HREF="students.html">here</A>. I'm lucky to work with these excellent students/interns!
+</p>
+
+<p>
+<h2>Selected Publications (full list can be found <A HREF="Publications/publication-full.html">here</A>)</h2>
+<hr />
+<ul>
+<li>
+Direct Universal Access: Enabling Data Center Resource Pooling for FPGAs <br />
+Ran Shu, Peng Cheng, <b>Guo Chen</b>, Zhiyuan Guo, Lei Qu, Yongqiang Xiong, Derek Chiou, Thomas Moscibroda <br />
+USENIX Symposium on Networked Systems Design and Implementation (<b>NSDI</b>), Boston, MA, USA, 2019
+</li>
+
+<li>
+<a href="Publications/MPRDMA-NSDI18.pdf">Multi-Path Transport for RDMA in Datacenters</a> <br />
+Yuanwei Lu, <b>Guo Chen</b>, Bojie Li, Kun Tan, Yongqiang Xiong, Peng Cheng, Jiansong Zhang, Enhong Chen and Thomas Moscibroda <br />
+USENIX Symposium on Networked Systems Design and Implementation (<b>NSDI</b>), Renton, WA, USA, 2018
+</li>
+
+<li>
+<a href="Publications/FUSO-ATC16.pdf">Fast and Cautious: Leveraging Multi-path Diversity for Transport Loss Recovery in Data Centers</a> <br />
+<b>Guo Chen</b>, Yuanwei Lu, Yuan Meng, Bojie Li, Kun Tan, Dan Pei, Peng Cheng, Layong (Larry) Luo, Yongqiang Xiong, Xiaoliang Wang and Youjian Zhao <br />
+USENIX Annual Technical Conference (<b>USENIX ATC</b>), Denver, CO, USA, June 2016
+</li>
+
+<li>
+<a href="Publications/EPN-INFOCOM17.pdf">One More Queue is Enough: Minimizing Flow Completion Time with Explicit Priority Notification</a> <br />
+Yuanwei Lu, <b>Guo Chen*</b>, Kun Tan, Layong Luo, Yongqiang Xiong, Xiaoliang Wang and Enhong Chen <br />
+IEEE International Conference on Computer Communications (<b>INFOCOM</b>), Atlanta, GA, USA, 2017
+</li>
+
+<li>
+<a href="Publications/F2Tree-ICDCS.pdf">Rewiring 2 Links is Enough: Accelerating Failure Recovery in Production Data Center Networks</a> <br />
+<b>Guo Chen</b>, Youjian Zhao, Dan Pei and Dan Li <br />
+IEEE International Conference on Distributed Computing Systems (<b>ICDCS</b>), Columbus, USA, 2015
+</li>
+
+<li>
+<a href="Publications/WiLy-INFOCOM16.pdf">WiFi can Be the Weakest Link of Round Trip Network Latency</a> <br />
+Changhua Pei, Youjian Zhao, <b>Guo Chen</b>, Ruming Tang, Yuan Meng, Minghua Ma, Ken Ling, Dan Pei <br />
+IEEE International Conference on Computer Communications (<b>INFOCOM</b>), San Francisco, CA, USA, Apr 2016
+</li>
+
+<li>
+<a href="Publications/FUSO-TON18.pdf">FUSO: Fast Multi-path Loss Recovery for Data Center Networks</a> <br />
+<b>Guo Chen</b>, Yuanwei Lu, Yuan Meng, Bojie Li, Kun Tan, Dan Pei, Peng Cheng, Layong (Larry) Luo, Yongqiang Xiong, Xiaoliang Wang and Youjian Zhao <br />
+IEEE/ACM Transactions on Networking (<b>ToN</b>), 2018
+</li>
+
+<li>
+<a href="Publications/F2Tree-TON.pdf">F<SUP>2</SUP>Tree: Rapid Failure Recovery for Routing in Production Data Center Networks </a> <br />
+<b>Guo Chen</b>, Youjian Zhao, Hailiang Xu, Dan Pei and Dan Li <br />
+IEEE/ACM Transactions on Networking (<b>ToN</b>), 2017
+</li>
+</ul>
+</p> 
+
+<p>
+<h2>Research Grants </h2>
+<hr />
+<ul>
+<li> 国家自然科学基金面上项目, Study on multi-path transport for hardware-based network stack in data center (面向数据中心网络的硬件协议栈多路径传输机制研究), Principal Investigator, 2019-2022</li>
+</ul>
+</p> 
+
+<p>
+<h2>Awards </h2>
+<hr />
+<ul>
+<li> Best Paper Award, The 9th International Doctoral Forum, 2016</li>
+<li> National Scholarship for Graduate Student, 2015 (Rank 1st)</li>
+<li> Excellent Certificate of Stars of Tomorrow Internship Program in MSRA, 2014</li>
+<li> First Class Scholarship for Graduate Student in Tsinghua University, 2012 (Top 5%) </li>
+</ul>
+</p> 
+
+<!-- </div> -->
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&d=yroax7AJrky0-KLzCajd8ZiwmhA3nl-DblWhxXyK0B0'></script>
+
+
+<!-- </body> -->
+
+</html>
+
+
+<style>
+hr{
+border: 0px;
+	border-top: 1px solid grey;
+}
+</style>
